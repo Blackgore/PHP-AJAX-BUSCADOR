@@ -1,0 +1,48 @@
+body{
+    color:#666;
+    background-color: #f0f0f0;
+    font-family: 'Roboto Condensed';
+}
+
+.container{
+    width: 800px;
+    min-height: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border: solid 1px #ccc;
+}
+
+.center{
+    text-align: center;
+}
+
+.form input{
+    width: 80%;
+    padding: 6px;
+}
+
+.footer{
+    font-size: 14px;
+    /* color: ; */
+}
+
+#resultados{
+    min-height: 290px;
+}
+
+.articulo{
+    margin-bottom: 10px;
+    background-color: #f1f1f1;
+    padding: 5px;
+}
+
+.titulo{
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.articulo a {
+    text-decoration: none;
+    color:#666;
+}
